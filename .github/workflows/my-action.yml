@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 23f3004298@ds.study.iitm.ac.in
-        run: echo "Action verified"
+        run: echo "Hello, world!"
       
